@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.TestCompose.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.TestCompose.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.TestCompose.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
